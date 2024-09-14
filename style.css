@@ -29,6 +29,7 @@ nav {
 #main-content {
     padding: 20px;
     grid-area: main;
+    align-items: center;
 }
 
 
