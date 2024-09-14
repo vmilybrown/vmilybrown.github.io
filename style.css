@@ -116,6 +116,7 @@ footer > form {
   .five {
     grid-column: 2;
     grid-row: 3;
+    text-shadow: #d77cb7;
     background-color: rgb(208, 254, 255);
   }
   .six {
