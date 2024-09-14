@@ -109,6 +109,7 @@ footer > form {
     grid-column: 1;
     grid-row: 2 / 5;
     background-color: #8f42c2;
+    display: flex;
   }
   .four {
     grid-column: 3;
