@@ -16,6 +16,7 @@ header {
     background-color: #d77cb7;
     grid-area: menu;
     text-decoration: none;
+    text-align: center;
 }
 
 nav {
@@ -109,7 +110,6 @@ footer > form {
     grid-column: 1;
     grid-row: 2 / 5;
     background-color: #8f42c2;
-    display: flex;
   }
   .four {
     grid-column: 3;
